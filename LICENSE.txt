@@ -1,0 +1,3 @@
+No software other than my own is being distributed using this script. The script uses the Chocolatey Package installer to install all software.
+
+I do not own the rights to Chocolatey Package Manager or any of the software that can be downloaded from their repository.
