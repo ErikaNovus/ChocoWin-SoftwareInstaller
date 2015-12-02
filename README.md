@@ -16,9 +16,9 @@
 |Firefox|42.0|42.0|
 |Opera|33|33|
 |7Zip|9.38|15.12|
-|Notepad++|6.8.6|6.8.6|
+|Notepad++|6.8.6|6.8.7|
 |Sublime Text 3|3003|3083|
-|Brackets|1.5|1.5|
+|Brackets|1.5|1.5.0.2|
 |Vim|7.4|7.4|
 |Visual Studio Community 2015|14|14|
 |Eclipse|4.5|4.5.1|
