@@ -7,7 +7,7 @@
 
 |Software|Current Package Version|Latest Version|
 |--------|-----------------------|--------------|
-|MalwareBytes|2.1.6.1022|2.2.0|
+|MalwareBytes|2.2.0.1024|2.2.0.1024|
 |Silverlight|5.0.2|5.0.2|
 |Flash|FP 19|FP 19|
 |Java|8.0.66|8.0.66|
@@ -15,8 +15,8 @@
 |Google Chrome|46.0.2490.86|46.0.2490.86 stable (Dev update available)|
 |Firefox|42.0|42.0|
 |Opera|33|33|
-|7Zip|9.38|15.12|
-|Notepad++|6.8.6|6.8.7|
+|7Zip|15.14|15.14|
+|Notepad++|6.8.8|6.8.8|
 |Sublime Text 3|3003|3083|
 |Brackets|1.5|1.5.0.2|
 |Vim|7.4|7.4|
